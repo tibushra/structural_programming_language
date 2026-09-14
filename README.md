@@ -23,23 +23,40 @@ The programs cover fundamental concepts of **structured programming**, including
 
 ## 📂 Repository Contents
 
-# basic_C
+### `basic_C`
+Basic C programming concepts and practice programs.
 
-# if-else_C
+### `if-else_C`
+Programs based on conditional statements such as:
+- `if`
+- `if-else`
+- `else-if`
+- Nested conditions
 
-# loop_C
+### `loop_C`
+Programs using different types of loops:
+- `for`
+- `while`
+- `do-while`
+- Nested loops
 
-# function_C
+### `function_C`
+Programs demonstrating the use of functions in C.
 
-# array_C
+### `array_C`
+Programs related to one-dimensional and multi-dimensional arrays.
 
-# string_C
+### `string_C`
+Programs for handling and manipulating strings in C.
 
-# pointer_C
+### `pointer_C`
+Programs demonstrating pointers and memory-related concepts in C.
 
-# recursion_C
+### `recursion_C`
+Programs based on recursive functions and recursion techniques.
 
-# structure_C
+### `structure_C`
+Programs using structures in C for organizing and handling data.
 
 ## 🛠️ Language & Tools
 
