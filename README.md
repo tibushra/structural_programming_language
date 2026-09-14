@@ -8,11 +8,11 @@ This repository contains my assignments, practice problems, and programs written
 
 | Information | Details |
 
-| **Name** - Tabassum Islam Bushra
-| **Institution** - Sylhet Engineering College |
-| **Year** - 1st Year |
-| **Semester** - 1st Semester |
-| **Course** - Structural Programming Language |
+| **Name** - Tabassum Islam Bushra <br>
+| **Institution** - Sylhet Engineering College |<br>
+| **Year** - 1st Year |<br>
+| **Semester** - 1st Semester |<br>
+| **Course** - Structural Programming Language |<br>
 | **Course Teacher** - Abir Ahmed |
 
 ## 📚 About This Repository
