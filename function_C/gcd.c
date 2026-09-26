@@ -11,7 +11,7 @@ int min(int a, int b)
 int gcd(int a, int b)
 {
     int hcf;
-    for (int i; i <= min(a, b); i++)
+    for (int i=1; i <= min(a, b); i++)
     {
         if (a % i == 0 && b % i == 0)
         {
