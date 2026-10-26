@@ -56,6 +56,7 @@ int main()
         printf("Enter org employee number: ");
         scanf("%d", &arr[i].employees);
         getchar();
+        
     }
 
     printf("Enter the number of organization which informtaion you want: ");
