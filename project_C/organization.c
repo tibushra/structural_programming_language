@@ -1,39 +1,39 @@
 #include <stdio.h>
 #include <string.h>
 
-typedef struct organization
+typedef struct Organization
 {
     char name[30];
     char location[30];
     int employees;
     int rank;
-} organization;
+} Organization;
 
-void orgName(int n, organization arr[])
+void orgName(int n, Organization arr[])
 {
     printf("%d. organization's Name: %s\n", n + 1, arr[n].name);
     return;
 }
 
-void location(int n, organization arr[])
+void location(int n, Organization arr[])
 {
     printf("Number %d organization's Location: %s\n", n + 1, arr[n].location);
     return;
 }
 
-void totalEmployees(int n, organization arr[])
+void totalEmployees(int n, Organization arr[])
 {
     printf("Number %d organization's Employees: %d\n", n + 1, arr[n].employees);
     return;
 }
 
-void rank(int n, organization arr[])
+void rank(int n, Organization arr[])
 {
     printf("Number %d organization's type: %d\n", n + 1, arr[n].rank);
     return;
 }
 
-void information(int n, organization arr[])
+void information(int n, Organization arr[])
 {
     printf("Organization Information: \n");
     printf("Name: %s\n", arr[n].name);
@@ -56,7 +56,7 @@ int main()
     }
 
     getchar();
-    organization arr[x];
+    Organization arr[x];
 
     for (int i = 0; i < x; i++)
     {
